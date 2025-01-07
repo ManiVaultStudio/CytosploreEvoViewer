@@ -62,6 +62,8 @@ Installer executables are available for download on the [Cytosplore Viewer websi
   </tr>
 </table>
 
+<!--## 💾 Data -->
+
 ## ⚙️ Development
 
 ### ManiVault Studio repositories used
