@@ -44,7 +44,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
       <a href="https://www.universiteitleiden.nl/medewerkers/boudewijn-lelieveldt#tab-1">
         <img src="https://airdrive.eventsair.com/eventsairwesteuprod/production-hyphenprojects-public/97110a8d6b8e49a48435977e213a8145" alt="BL" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Boudewijn Lelieveldt</strong>
-        <span style="display: block; height: 1.2em; line-height: 1.2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span style="display: block; height: 1.2em; line-height: 1.2em;">&nbsp;&nbsp;</span>
       </a>
     </td>
     <td style="text-align: center; width: 100px; height: 110px; vertical-align: top;">
