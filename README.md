@@ -23,7 +23,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
       <a href="https://alleninstitute.org/person/morgan-wirthlin/">
         <img src="https://alleninstitute.org/wp-content/uploads/2023/01/morgan_wirthlin_sq_morgan_wirthlin-1.jpeg" alt="MW" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Morgan Wirthlin</strong>
-        <span style="display: block; height: 1.2em; line-height: .2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span style="display: block; height: 1.2em; line-height: .2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </a>
     </td>
     <td style="text-align: center; width: 100px; height: 110px; vertical-align: top;">
@@ -51,7 +51,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
       <a href="https://alleninstitute.org/person/ed-lein/">
         <img src="https://alleninstitute.org/wp-content/uploads/2022/12/ed_lein-web.jpg" alt="EL" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Ed Lein</strong><br/>
-        <br><span style="display: block; height: 1.2em; line-height: .2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <br><span style="display: block; height: 1.2em; line-height: .2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </a>
     </td>
     <td style="text-align: center; width: 100px; height: 110px; vertical-align: top;">
