@@ -1,4 +1,4 @@
-# 🧠 Cytosplore EvoViewer
+# <img src="https://viewer.cytosplore.org/assets/images/cytosplore-viewer.png" width="30" height="30"> Cytosplore EvoViewer
 
 The Cytosplore EvoViewer system offers valuable insights into genetic variations and evolutionary dynamics, helping to understand the diversity and the unity within diversity across species and their evolutionary development.
 
