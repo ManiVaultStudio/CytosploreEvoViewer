@@ -16,7 +16,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
       <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/computer-graphics-and-visualization/people/soumyadeep-basu">
         <img src="https://cdn.discordapp.com/attachments/1037018773338722427/1161027140213538876/IMG_8933.jpg?ex=677e2d89&is=677cdc09&hm=82808bf720f03c3a2fc9942db49fd66bbfc27815553f5acf5cf523b154fc43c8&" alt="SB" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Soumyadeep Basu</strong>
-        <span style="display: block; height: 1.2em; line-height: 1.2em;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span style="display: block; height: 1.2em; line-height: 1.2em;">&nbsp;&nbsp;</span>
       </a>
     </td>
     <td style="text-align: center; width: 100px; height: 110px; vertical-align: top;">
