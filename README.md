@@ -33,7 +33,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
     <td style="vertical-align: top; width: 100px;">
       <a href="https://www.linkedin.com/in/thomas-kroes-26b86828/?originalSubdomain=nl" style="font-size: 14px; text-decoration: none;">
         <img src="https://filelist.tudelft.nl/_processed_/4/8/csm_Thomas%20Kroes_bb013bc00d.webp" alt="TK" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
-        <br><strong>Thomas Kroes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+        <br><strong>Thomas Kroes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
@@ -51,7 +51,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
     <td style="vertical-align: top; width: 100px;">
       <a href="https://alleninstitute.org/person/trygve-bakken/#:~:text=Trygve%20Bakken%2C%20M.D.%2C%20Ph.,D.&text=He%20currently%20co%2Dleads%20an,an%20M.D.%2C%20and%20a%20Ph." style="font-size: 14px; text-decoration: none;">
         <img src="https://alleninstitute.org/wp-content/uploads/2022/12/Trygve_Bakken_2022_close_cropped.jpeg" alt="TB" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
-        <br><strong>Trygve Bakken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+        <br><strong>Trygve Bakken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
