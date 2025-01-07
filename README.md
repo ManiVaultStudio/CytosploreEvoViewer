@@ -67,7 +67,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
 
 ## Development
 
-### ManiVault Studio respsitories used
+### ManiVault Studio repositories used
 
 The Cytosplore EvoViewer system makes use of the following repositories:
 
