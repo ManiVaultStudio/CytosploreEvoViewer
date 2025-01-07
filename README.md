@@ -13,49 +13,49 @@ Installer executables are available for download on the [Cytosplore Viewer websi
 <table style="width: 100%; text-align: center; border-spacing: 10px;">
   <tr>
     <td style="vertical-align: top; width: 100px;">
-      <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/computer-graphics-and-visualization/people/soumyadeep-basu" style="font-size: 14px; text-decoration: none;">
+      <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/computer-graphics-and-visualization/people/soumyadeep-basu" style="font-size: 9px; text-decoration: none;">
         <img src="https://cdn.discordapp.com/attachments/1037018773338722427/1161027140213538876/IMG_8933.jpg?ex=677e2d89&is=677cdc09&hm=82808bf720f03c3a2fc9942db49fd66bbfc27815553f5acf5cf523b154fc43c8&" alt="SB" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Soumyadeep Basu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
-      <a href="https://alleninstitute.org/person/morgan-wirthlin/" style="font-size: 14px; text-decoration: none;">
+      <a href="https://alleninstitute.org/person/morgan-wirthlin/" style="font-size: 9px;text-decoration: none;">
         <img src="https://alleninstitute.org/wp-content/uploads/2023/01/morgan_wirthlin_sq_morgan_wirthlin-1.jpeg" alt="MW" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Morgan Wirthlin&nbsp;&nbsp;</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
-      <a href="https://www.linkedin.com/in/jeroen-eggermont-0031356/" style="font-size: 14px; text-decoration: none;">
+      <a href="https://www.linkedin.com/in/jeroen-eggermont-0031356/" style="font-size: 9px; text-decoration: none;">
         <img src="https://loop.frontiersin.org/images/profile/787260/203" alt="JE" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Jeroen Eggermont&nbsp;</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
-      <a href="https://www.linkedin.com/in/thomas-kroes-26b86828/?originalSubdomain=nl" style="font-size: 14px; text-decoration: none;">
+      <a href="https://www.linkedin.com/in/thomas-kroes-26b86828/?originalSubdomain=nl" style="font-size: 9px; text-decoration: none;">
         <img src="https://filelist.tudelft.nl/_processed_/4/8/csm_Thomas%20Kroes_bb013bc00d.webp" alt="TK" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Thomas Kroes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
-      <a href="https://www.universiteitleiden.nl/medewerkers/boudewijn-lelieveldt#tab-1" style="font-size: 14px; text-decoration: none;">
+      <a href="https://www.universiteitleiden.nl/medewerkers/boudewijn-lelieveldt#tab-1" style="font-size: 9px; text-decoration: none;">
         <img src="https://airdrive.eventsair.com/eventsairwesteuprod/production-hyphenprojects-public/97110a8d6b8e49a48435977e213a8145" alt="BL" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Boudewijn Lelieveldt</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
-      <a href="https://alleninstitute.org/person/ed-lein/" style="font-size: 14px; text-decoration: none;">
+      <a href="https://alleninstitute.org/person/ed-lein/" style="font-size: 9px; text-decoration: none;">
         <img src="https://alleninstitute.org/wp-content/uploads/2022/12/ed_lein-web.jpg" alt="EL" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Ed Lein&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
-      <a href="https://alleninstitute.org/person/trygve-bakken/#:~:text=Trygve%20Bakken%2C%20M.D.%2C%20Ph.,D.&text=He%20currently%20co%2Dleads%20an,an%20M.D.%2C%20and%20a%20Ph." style="font-size: 14px; text-decoration: none;">
+      <a href="https://alleninstitute.org/person/trygve-bakken/#:~:text=Trygve%20Bakken%2C%20M.D.%2C%20Ph.,D.&text=He%20currently%20co%2Dleads%20an,an%20M.D.%2C%20and%20a%20Ph." style="font-size: 9px; text-decoration: none;">
         <img src="https://alleninstitute.org/wp-content/uploads/2022/12/Trygve_Bakken_2022_close_cropped.jpeg" alt="TB" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Trygve Bakken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
       </a>
     </td>
     <td style="vertical-align: top; width: 100px;">
-      <a href="https://www.thomashollt.com/" style="font-size: 14px; text-decoration: none;">
+      <a href="https://www.thomashollt.com/" style="font-size: 9px; text-decoration: none;">
         <img src="https://filelist.tudelft.nl/_processed_/5/b/csm_Thomas-Hollt-portret_c8e8734581.jpg" alt="TH" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong>Thomas Höllt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
       </a>
