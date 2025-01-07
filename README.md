@@ -1,14 +1,14 @@
-# Cytosplore EvoViewer
+# 🧠 Cytosplore EvoViewer
 
 The Cytosplore EvoViewer system offers valuable insights into genetic variations and evolutionary dynamics, helping to understand the diversity and the unity within diversity across species and their evolutionary development.
 
-## Installers
+## ⬇️ Installers
 
 Installer executables are available for download on the [Cytosplore Viewer website](https://viewer.cytosplore.org/). 
 
-## Publication
+## 📄 Publication
 
-### Authors
+### ✍️ Authors
 <table style="width: 100%; text-align: center; border-spacing: 10px;">
   <tr>
     <td style="vertical-align: top; width: 100px;">
@@ -62,7 +62,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
   </tr>
 </table>
 
-## Development
+## ⚙️ Development
 
 ### ManiVault Studio repositories used
 
