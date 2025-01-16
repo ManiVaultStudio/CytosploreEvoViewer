@@ -1,6 +1,7 @@
 # <img src="https://viewer.cytosplore.org/assets/images/cytosplore-viewer.png" width="30" height="30"> Cytosplore EvoViewer
 
 The Cytosplore EvoViewer system offers valuable insights into genetic variations and evolutionary dynamics, helping to understand the diversity and the unity within diversity across species and their evolutionary development.
+![pub3](https://github.com/user-attachments/assets/dd3c20d5-dfca-49bf-b84e-aba687e74527)
 
 ## ⬇️ Installers
 
@@ -13,7 +14,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
   <tr>
     <td style="vertical-align: top; width: 100px;">
       <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/computer-graphics-and-visualization/people/soumyadeep-basu" style="font-size: 9px; text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/sbvis/soumyadeep/refs/heads/main/src/assets/images/sb.jpg?token=GHSAT0AAAAAAC34UDQ6G6ZQS3OT37HS2P6CZ4FP4FQ" alt="SB" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
+        <img src="https://github.com/user-attachments/assets/52b6f4cc-6ea4-4eeb-b993-ec22ecf5b31b" alt="SB" width="80" height="80" style="border-radius: 50%; object-fit: cover;">
         <br><strong style="font-size: 14px;">Soumyadeep Basu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
       </a>
     </td>
