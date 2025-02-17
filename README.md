@@ -9,7 +9,24 @@ Installer executables are available for download on the [Cytosplore Viewer websi
 
 ## 📄 Publication
 
-### ✍️ Authors
+![PubCover](https://github.com/user-attachments/assets/64dd05a5-1949-4ad5-b0ce-bbc593ef1791)
+
+
+### 📖 Cite
+
+If you use Cytosplore EvoViewer in your research, please cite our work. Here is the BibTeX entry for the publication:
+
+```bibtex
+@inproceedings{ CytosploreEvoViewer2025,
+    author = { Soumyadeep Basu and Morgan Wirthlin and Jeroen Eggermont and Thomas Kroes and Boudewijn Lelieveldt and Ed Lein and Trygve Bakken and Thomas H{\"o}llt },
+    title = { Cytosplore EvoViewer: Visual Analytics of Conserved Evolutionary Patterns in multi-species single-cell sequencing data },
+    booktitle = { Proceedings of the IEEE Pacific Visualization Conference },
+    pages = {  },
+    year = { 2025 },
+    doi = {  },
+}
+```
+<!--### ✍️ Authors
 <table style="width: 100%; text-align: center; border-spacing: 10px;">
   <tr>
     <td style="vertical-align: top; width: 100px;">
@@ -61,7 +78,7 @@ Installer executables are available for download on the [Cytosplore Viewer websi
       </a>
     </td>
   </tr>
-</table>
+</table>-->
 
 <!--## 💾 Data -->
 
