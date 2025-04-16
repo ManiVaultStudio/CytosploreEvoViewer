@@ -98,11 +98,11 @@ The Cytosplore EvoViewer system makes use of the following repositories:
 
 3. **CrossSpeciesComparisonGeneDetectPlugin**
    - Description: Identify marker genes and display gene table view.
-   - Repository Link: [ClusterDifferentialExpressionPlugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonGeneDetectPlugin.git)
+   - Repository Link: [EvoViewer Gene Detection Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonGeneDetectPlugin.git)
 
 4. **CrossSpeciesComparisonPhyTVuPlugin**
    - Description: Display phylogenetic tree view.
-   - Repository Link: [EvoViewer Gene Detection Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonPhyTVuPlugin.git)   
+   - Repository Link: [EvoViewer Tree View Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonPhyTVuPlugin.git)   
 
 5. **CrossSpeciesComparisonClusterRankPlugin**
    - Description: Display cluster hierarchy view and perform dataset subsampling.
