@@ -94,7 +94,7 @@ The Cytosplore EvoViewer system makes use of the following repositories:
 
 2. **Scatterplot View Plugin**
    - Description: Plugin for rendering scatter plots.
-   - Repository Link: [Scatterplot Plugin](https://github.com/ManiVaultStudio/SimianViewerScatterplotPlugin.git)
+   - Repository Link: [Scatterplot Plugin](https://github.com/ManiVaultStudio/Scatterplot.git)
 
 3. **CrossSpeciesComparisonGeneDetectPlugin**
    - Description: Identify marker genes and display gene table view.
