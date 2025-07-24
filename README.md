@@ -21,9 +21,9 @@ If you use Cytosplore EvoViewer in your research, please cite our work. Here is 
     author = { Soumyadeep Basu and Morgan Wirthlin and Jeroen Eggermont and Thomas Kroes and Boudewijn Lelieveldt and Ed Lein and Trygve Bakken and Thomas H{\"o}llt },
     title = { Cytosplore EvoViewer: Visual Analytics of Conserved Evolutionary Patterns in multi-species single-cell sequencing data },
     booktitle = { Proceedings of the IEEE Pacific Visualization Conference },
-    pages = {  },
+    pages = { 149-159 },
     year = { 2025 },
-    doi = {  },
+    doi = { 10.1109/PacificVis64226.2025.00021 },
 }
 ```
 <!--### ✍️ Authors
