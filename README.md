@@ -96,29 +96,29 @@ The Cytosplore EvoViewer system makes use of the following repositories:
    - Description: Plugin for rendering scatter plots.
    - Repository Link: [Scatterplot Plugin](https://github.com/ManiVaultStudio/Scatterplot.git)
 
-3. **CrossSpeciesComparisonGeneDetectPlugin**
+3. **XSCGeneDetectPlugin**
    - Description: Identify marker genes and display gene table view.
-   - Repository Link: [EvoViewer Gene Detection Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonGeneDetectPlugin.git)
+   - Repository Link: [EvoViewer Gene Detection Plugin](https://github.com/ManiVaultStudio/XSCGeneDetectPlugin.git)
 
-4. **CrossSpeciesComparisonPhyTVuPlugin**
+4. **XSCPhyTVuPlugin**
    - Description: Display phylogenetic tree view.
-   - Repository Link: [EvoViewer Tree View Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonPhyTVuPlugin.git)   
+   - Repository Link: [EvoViewer Tree View Plugin](https://github.com/ManiVaultStudio/XSCPhyTVuPlugin.git)   
 
-5. **CrossSpeciesComparisonClusterRankPlugin**
+5. **XSCClusterRankPlugin**
    - Description: Display cluster hierarchy view and perform dataset subsampling.
-   - Repository Link: [EvoViewer Cluster Ranking Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonClusterRankPlugin.git)
+   - Repository Link: [EvoViewer Cluster Ranking Plugin](https://github.com/ManiVaultStudio/XSCClusterRankPlugin.git)
 
-6. **CrossSpeciesComparisonLoaderPlugin**
+6. **XSCLoaderPlugin**
    - Description: EvoViewer loader to load EvoViewer tree data and metadata datasets.
-   - Repository Link: [EvoViewer Loader Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonLoaderPlugin.git)
+   - Repository Link: [EvoViewer Loader Plugin](https://github.com/ManiVaultStudio/XSCLoaderPlugin.git)
   
-7. **CrossSpeciesComparisonTreeMetaData**
+7. **XSCTreeMetaData**
    - Description: EvoViewer dataset to store metadata data structure.
-   - Repository Link: [EvoViewer Tree MetaData Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonTreeMetaData.git)
+   - Repository Link: [EvoViewer Tree MetaData Plugin](https://github.com/ManiVaultStudio/XSCTreeMetaData.git)
   
-8. **CrossSpeciesComparisonTreeData**
+8. **XSCTreeData**
    - Description: EvoViewer dataset to store tree data structure.
-   - Repository Link: [EvoViewer Tree Data Plugin](https://github.com/ManiVaultStudio/CrossSpeciesComparisonTreeData.git)
+   - Repository Link: [EvoViewer Tree Data Plugin](https://github.com/ManiVaultStudio/XSCTreeData.git)
   
 9. **t-SNE-Analysis**
    - Description: t-SNE and HSNE analysis plugin.
